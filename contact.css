@@ -7,7 +7,7 @@
 
 .container{ 
     width: 100%;
-    height: 120vh;
+    height: 600px;
     background:lightgreen;
     display: flex;
     align-items: center;
@@ -23,7 +23,6 @@ form{
     background-image: url("crops.jpg");
     background-position: center;
     background-size: cover;
-    /* background: #fff; */
     display: 100vh;
     flex-direction: column;
     width: 90%;
@@ -63,7 +62,7 @@ form button{
     border-radius:  30px;
 }
 footer {
-    height: 100vh;
+    /* height: 100vh; */
     outline: 1px solid lightgreen;
     text-align: center;
     background-color: lightblue;
@@ -76,5 +75,5 @@ footer {
  }
  iframe {
     width: 100%;
-    height: 350px;
+    /* height: 350px; */
  }
