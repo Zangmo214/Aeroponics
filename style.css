@@ -24,6 +24,8 @@ footer {
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
+        background-color: rgba(#ffff);
+        opacity:0.4;
         filter: blur(2px);
     }
     #childOne {
@@ -68,7 +70,7 @@ footer {
      }
      button {
         display: block;
-        margin-left: 200px;
+        margin-left: 20px;
         background-color: lightblue;
         border-radius: 20px;
         padding: 5px;
